@@ -14,3 +14,6 @@ This project is for learning, testing, and community experiments.
 - Basic Windows apps support
 - No heavy PC games
 - Focus on stability, not performance
+
+MALIVAR is based on the Winlator project and focuses on
+MediaTek + Mali GPU optimization.
