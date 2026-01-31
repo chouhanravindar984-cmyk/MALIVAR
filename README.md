@@ -17,3 +17,5 @@ This project is for learning, testing, and community experiments.
 
 MALIVAR is based on the Winlator project and focuses on
 MediaTek + Mali GPU optimization.
+MALIVAR V1.0 uses a custom Winlator container profile
+designed for MediaTek devices with Mali GPUs.
